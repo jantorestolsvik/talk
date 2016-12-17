@@ -1,0 +1,8 @@
+Hvordan hjelper react med å tenke på en ting om gangen, og det gjør det enkelt å teste. en veis dataflyt, men en del callbacks når komponenter trenger å snakke med hverandre.
+
+Redux, mye av det samme, hjelper på å tenke bare på en ting av gangen, en veis dataflyt
+
+redux saga -> samme ting for async ting.
+
+testing
+
